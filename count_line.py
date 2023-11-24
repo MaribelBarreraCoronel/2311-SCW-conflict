@@ -1,5 +1,7 @@
+
 import sys
 
+this is my line
 """
 This script counts the lines in the standard input
 Input: text from the system
